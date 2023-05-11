@@ -1,11 +1,12 @@
 .contentWrapper {
   position: relative;
   top: 40px;
+  outline: none;
 }
 
 .content {
   overflow: scroll;
-  height: 85vh;
+  height: 90vh;
 }
 
 .closeIcon {

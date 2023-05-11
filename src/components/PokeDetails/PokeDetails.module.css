@@ -1,6 +1,8 @@
 .detailsWrapper {
-  position: sticky;
-  top: 50px;
+  @media (min-width: 900px) {
+    position: sticky;
+    top: 50px;
+  }
 }
 
 .valueColumn {
